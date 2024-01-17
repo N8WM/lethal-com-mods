@@ -94,7 +94,7 @@ If this repository has been updated by someone, you can pull the most recent ver
 If you have merge conflicts, see the next section. If you have merge conflicts, you will see a message similar to the one in the following picture when running the update script:
 
 <div align="center">
-    <img src="./images/conflicts.png?raw=true" alt="merge conflicts" width="500" />
+    <img src="./images/conflicts.png?raw=true" alt="merge conflicts" width="90%" />
 </div><br/>
 
 
