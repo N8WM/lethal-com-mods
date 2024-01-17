@@ -119,6 +119,8 @@ If you have merge conflicts, see the [resolving merge conflicts](#resolving-merg
 
 ## Resolving merge conflicts
 If you have made changes to your own mods that conflict with the updates you are pulling, you may have what is known as "merge conflicts" when pulling the most recent changes. If that is the case and you would like to revert your own changes and update with the most recent changes to this repository, You may do so.
+- Ensure your mods are *enabled* using the `toggle_mods` file, as seen in the [disabling or reenabling mods](#disabling-or-reenabling-mods) section
+   - Running the script should notify you whether the mods are now disabled or enabled
 - Follow steps 1, 3, 4, and 5 in the Setup (do not clear out the game folder, skip that step)
 - Now with your command line open, type `git stash` and press the `Enter` key
 - Now you should be able to run the update script with no issues
