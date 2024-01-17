@@ -12,7 +12,7 @@ This tutorial assumes you already have Lethal Company installed. It is important
 
 0. If you don't have Git installed on your device, download it through [this link](https://gitforwindows.org)
    - Double-click the downloaded file and follow the installation instructions
-   - I recommend following all default options
+   - I recommend using all of the default options
    - You can remove the installation file once you are finished installing Git
 
 2. Open the Lethal Company game folder
