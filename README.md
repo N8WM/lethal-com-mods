@@ -101,11 +101,7 @@ If this repository has been updated by someone, you can pull the most recent ver
 - Double-click the `update.bat` or `update` file (the `.bat` extension may or may not be visible on your computer)
 - Your game mods should now be up to date with the repository
 
-If you have merge conflicts, see the [resolving merge conflicts](#resolving-merge-conflicts) section. If you have merge conflicts, you will see a message similar to the one in the following picture when running the update script:
-
-<div align="center">
-    <img src="./images/conflicts.png?raw=true" alt="merge conflicts" width="90%" />
-</div><br/>
+If you have merge conflicts, see the [resolving merge conflicts](#resolving-merge-conflicts) section. This shouldn't happen unless you make changes to the mods yourself.
 
 
 ## Disabling or reenabling mods
@@ -122,11 +118,18 @@ Feel free to add your own mods to the Lethal Company game folder like normal, ju
 
 
 ## Resolving merge conflicts
-If you have made changes to your own mods that conflict with the updates you are pulling, you may have what is known as "merge conflicts" when pulling the most recent changes. If that is the case and you would like to revert your own changes and update with the most recent changes to this repository, You may do so.
+If you have made changes to your own mods that conflict with the updates you are pulling, you may have what is known as "merge conflicts" when pulling the most recent changes. If you have merge conflicts, you will see a message similar to the one in the following picture when running the update script:
+
+<div align="center">
+    <img src="./images/conflicts.png?raw=true" alt="merge conflicts" width="90%" />
+</div><br/>
+
+If this is the case and you would like to undo your own changes and update with the most recent changes to this repository, You may do so.
+
 - Ensure your mods are *enabled* using the `toggle_mods` file, as seen in the [disabling or reenabling mods](#disabling-or-reenabling-mods) section
    - Running the script should notify you whether the mods are now disabled or enabled
 - Follow steps 1, 3, 4, and 5 in the Setup (do not clear out the game folder, skip that step)
 - Now with your command line open, type `git stash` and press the `Enter` key
 - Now you should be able to run the update script with no issues
-- [OPTIONAL] If you know what you are doing and want to get your own changes back, type `git stash pop` into the command line and press `Enter`
+- [OPTIONAL] **If you know what you are doing** and want to get your own changes back, type `git stash pop` into the command line and press `Enter`
    - Understand that you will need to manually resolve the merge conflict, I cannot help you with that in this tutorial
