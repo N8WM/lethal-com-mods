@@ -110,7 +110,7 @@ If this repository has been updated by someone, you can pull the most recent ver
 - Double-click the `update.bat` or `update` file (the `.bat` extension may or may not be visible on your computer)
 - Your game mods should now be up to date with the repository
 
-If you have merge conflicts, see the [Resolving merge conflicts](#resolving-merge-conflicts) section. If you have merge conflicts, you will see a message similar to the one in the following picture when running the update script:
+If you have merge conflicts, see the [resolving merge conflicts](#resolving-merge-conflicts) section. If you have merge conflicts, you will see a message similar to the one in the following picture when running the update script:
 
 <div align="center">
     <img src="./images/conflicts.png?raw=true" alt="merge conflicts" width="90%" />
@@ -125,4 +125,4 @@ If you have made changes to your own mods that conflict with the updates you are
 
 
 ## Adding your own mods
-Feel free to add your own mods to the Lethal Company game folder like normal, just understand that making changes to existing files on your computer may cause merge conflicts during future updates (see the [Resolving merge conflicts](#resolving-merge-conflicts) for details). If you would like to push your own mods or updates to the repository here on GitHub for everyone to use, there are several additional steps you need to follow. You need to create a GitHub account, configure your computer's Git profile, add an SSH key, and either make a pull request on a new branch, or I need to add your GitHub account as a contributor. If you are interested in being a contributor or learning more about this process, send me a Discord DM.
+Feel free to add your own mods to the Lethal Company game folder like normal, just understand that making changes to existing files on your computer may cause merge conflicts during future updates (see the [resolving merge conflicts](#resolving-merge-conflicts) section for details). If you would like to push your own mods or updates to the repository here on GitHub for everyone to use, there are several additional steps you need to follow. You need to create a GitHub account, configure your computer's Git profile, add an SSH key, and either make a pull request on a new branch, or I need to add your GitHub account as a contributor. If you are interested in being a contributor or learning more about this process, send me a Discord DM.
