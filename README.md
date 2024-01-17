@@ -118,7 +118,7 @@ Feel free to add your own mods to the Lethal Company game folder like normal, ju
 
 
 ## Resolving merge conflicts
-If you have made changes to your own mods that conflict with the updates you are pulling, you may have what is known as "merge conflicts" when pulling the most recent changes. If you have merge conflicts, you will see a message similar to the one in the following picture when running the update script:
+If you have made changes to your own mods that conflict with the updates you are pulling, you may have what is known as "merge conflicts" when pulling the most recent changes. If you have merge conflicts, you will see a message similar to the one in the following picture when running the update script (likely with different files than `README.md` though):
 
 <div align="center">
     <img src="./images/conflicts.png?raw=true" alt="merge conflicts" width="90%" />
