@@ -15,7 +15,7 @@ This is a repository that allows us to manage Lethal Company mods in a scalable 
 
 ## Setup
 
-This tutorial assumes you already have Lethal Company installed. It is important that you follow the steps in this order.
+This tutorial assumes you already have Lethal Company installed. It is important that you follow the steps CAREFULLY and IN THIS ORDER.
 
 0. If you don't have Git installed on your device, download it through [this link](https://gitforwindows.org)
    - Double-click the downloaded file and follow the installation instructions
@@ -30,7 +30,7 @@ This tutorial assumes you already have Lethal Company installed. It is important
     <img src="./images/browse.png?raw=true" alt="browse local files" width="90%" />
 </div><br/>
 
-*IMPORTANT* - Ensure you are in the Lethal Company folder, not your Steam library
+*IMPORTANT - Ensure you are in the Lethal Company folder, not your Steam library*
 
 2. Clear out the game folder
    - Highlight everything, right-click one of the highlighted files, and click the delete button
