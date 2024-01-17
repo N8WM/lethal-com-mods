@@ -10,9 +10,12 @@ This is a repository that allows us to manage Lethal Company mods in a scalable 
 
 This tutorial assumes you already have Lethal Company installed. It is important that you follow the steps in this order.
 
-0. If you don't have Git installed on your device, download it through [this link](https://gitforwindows.org) and follow the installation instructions
+0. If you don't have Git installed on your device, download it through [this link](https://gitforwindows.org)
+   - Double-click the downloaded file and follow the installation instructions
+   - I recommend following all default options
+   - You can remove the installation file once you are finished installing Git
 
-1. Open the Lethal Company game folder
+2. Open the Lethal Company game folder
    - Open the game folder using Steam
    - `Game settings button` > `Manage` > `Browse local files`
 
