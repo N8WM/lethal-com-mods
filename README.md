@@ -17,7 +17,7 @@ This tutorial assumes you already have Lethal Company installed. It is important
    - `Game settings button` > `Manage` > `Browse local files`
 
 <div align="center">
-    <img src="./images/browse.png?raw=true" alt="browse local files" width="500" />
+    <img src="./images/browse.png?raw=true" alt="browse local files" width="90%" />
 </div><br/>
 
 2. Clear out the game folder
@@ -40,7 +40,7 @@ This tutorial assumes you already have Lethal Company installed. It is important
    - This is what mine looked like:
 
 <div align="center">
-    <img src="./images/cd.png?raw=true" alt="cd to game folder" width="500" />
+    <img src="./images/cd.png?raw=true" alt="cd to game folder" width="90%" />
 </div><br/>
 
    - Now press the `Enter` key
@@ -49,7 +49,7 @@ This tutorial assumes you already have Lethal Company installed. It is important
    - Type `git clone https://github.com/N8WM/lethal-com-mods.git .` into the command line (feel free to copy and paste that, but don't forget the dot at the end):
 
 <div align="center">
-    <img src="./images/clone.png?raw=true" alt="clone the repo" width="500" />
+    <img src="./images/clone.png?raw=true" alt="clone the repo" width="90%" />
 </div><br/>
 
    - Press the `Enter` key
@@ -66,7 +66,7 @@ This tutorial assumes you already have Lethal Company installed. It is important
    - `Game settings button` > `Manage` > `Uninstall`
 
 <div align="center">
-    <img src="./images/uninstall.png?raw=true" alt="uninstall" width="500" />
+    <img src="./images/uninstall.png?raw=true" alt="uninstall" width="90%" />
 </div><br/>
 
 8. Reinstall Lethal Company
