@@ -6,6 +6,13 @@ MH mod repo for Lethal Company
 ## Description
 This is a repository that allows us to manage Lethal Company mods in a scalable way. Anyone can easily clone this repository into their Lethal Company folder and play without needing to worry about installing all of the mods manually. Additionally, if any mods are updated or added to our list, only one person needs to make the necessary changes to their Lethal Company folder and "push" for everyone to have access to "pull" the changes.
 
+## Table of Contents
+- [Setting it all up](#setup)
+- [Disabling and reenabling mods](#disabling-or-reenabling-mods)
+- [Updating to the most recent changes](#updating-to-the-most-recent-changes)
+- [Resolving merge conflicts](#resolving-merge-conflicts)
+- [Adding your own mods](#adding-your-own-mods)
+
 ## Setup
 
 This tutorial assumes you already have Lethal Company installed. It is important that you follow the steps in this order.
@@ -15,7 +22,7 @@ This tutorial assumes you already have Lethal Company installed. It is important
    - I recommend using all of the default options
    - You can remove the installation file once you are finished installing Git
 
-2. Open the Lethal Company game folder
+1. Open the Lethal Company game folder
    - Open the game folder using Steam
    - `Game settings button` > `Manage` > `Browse local files`
 
@@ -23,7 +30,7 @@ This tutorial assumes you already have Lethal Company installed. It is important
     <img src="./images/browse.png?raw=true" alt="browse local files" width="90%" />
 </div><br/>
 
-   - **IMPORTANT** - Ensure you are in the Lethal Company folder, not your Steam library
+*IMPORTANT* - Ensure you are in the Lethal Company folder, not your Steam library
 
 2. Clear out the game folder
    - Highlight everything, right-click one of the highlighted files, and click the delete button
@@ -96,7 +103,7 @@ If you wish to disable mods to play with someone who does not have them, there i
 - Double-click the file again to reenable the mods
 
 
-## Updating / Pulling the most recent changes
+## Updating to the most recent changes
 If this repository has been updated by someone, you can pull the most recent version pretty easily.
 - Open the Lethal Company game folder:
   - `Game settings button` > `Manage` > `Browse local files`
