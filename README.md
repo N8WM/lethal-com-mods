@@ -8,7 +8,7 @@ This is a repository that allows us to manage Lethal Company mods in a scalable 
 
 ## Table of Contents
 - [Setting it all up](#setup) (required)
-- [Updating to the most recent changes](#updating-to-the-most-recent-changes) (required for getting the latest mods and updates in this repo)
+- [Updating to the most recent changes](#updating-to-the-most-recent-changes) (required later on for getting the latest mods and updates in this repo)
 - [Disabling and reenabling mods](#disabling-or-reenabling-mods) (useful for playing with people who don't have mods)
 - [Adding your own mods](#adding-your-own-mods) (useful for customizing your own set of mods)
 - [Resolving merge conflicts](#resolving-merge-conflicts) (useful if you make your own changes to your mods and have issues updating)
