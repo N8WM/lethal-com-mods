@@ -91,7 +91,12 @@ If this repository has been updated by someone, you can pull the most recent ver
 - Double-click the `update.bat` or `update` file (the `.bat` extension may or may not be visible on your computer)
 - Your game mods should now be up to date with the repository
 
-If you have merge conflicts, see the next section.
+If you have merge conflicts, see the next section. If you have merge conflicts, you will see a message similar to the one in the following picture when running the update script:
+
+<div align="center">
+    <img src="./images/conflicts.png?raw=true" alt="merge conflicts" width="500" />
+</div><br/>
+
 
 ## Resolving merge conflicts
 If you have made changes to your own mods that conflict with the updates you are pulling, you may have what is known as "merge conflicts" when pulling the most recent changes. If that is the case and you would like to revert your own changes and update with the most recent changes to this repository, You may do so.
