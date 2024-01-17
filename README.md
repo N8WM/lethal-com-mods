@@ -53,7 +53,7 @@ This tutorial assumes you already have Lethal Company installed. It is important
 </div><br/>
 
    - Press the `Enter` key
-   - There should now be some files and folders in the Lethal Company game folder and it should look something like the following image. If the files are not there, the clone command probably failed. Make sure you have Git installed, and the Lethal Company game folder is completely empty before running the command.
+   - There should now be some files and folders in the Lethal Company game folder and it should look something like the following image, plus or minus a few items. If the files are not there, the clone command probably failed. Make sure you have Git installed, and the Lethal Company game folder is completely empty before running the command.
 
 <div align="center">
     <img src="./images/repo.png?raw=true" alt="repo structure" width="500" />
