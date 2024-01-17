@@ -5,3 +5,4 @@ nvngx_dlss.dll
 NVUnityPlugin.dll
 UnityCrashHandler64.exe
 UnityPlayer.dll
+**/*.log
