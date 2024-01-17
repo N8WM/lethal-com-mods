@@ -7,11 +7,11 @@ MH mod repo for Lethal Company
 This is a repository that allows us to manage Lethal Company mods in a scalable way. Anyone can easily clone this repository into their Lethal Company folder and play without needing to worry about installing all of the mods manually. Additionally, if any mods are updated or added to our list, only one person needs to make the necessary changes to their Lethal Company folder and "push" for everyone to have access to "pull" the changes.
 
 ## Table of Contents
-- [Setting it all up](#setup)
-- [Disabling and reenabling mods](#disabling-or-reenabling-mods)
-- [Updating to the most recent changes](#updating-to-the-most-recent-changes)
-- [Resolving merge conflicts](#resolving-merge-conflicts)
-- [Adding your own mods](#adding-your-own-mods)
+- [Setting it all up](#setup) (required)
+- [Updating to the most recent changes](#updating-to-the-most-recent-changes) (required for getting the latest mods and updates in this repo)
+- [Disabling and reenabling mods](#disabling-or-reenabling-mods) (useful for playing with people who don't have mods)
+- [Adding your own mods](#adding-your-own-mods) (useful for customizing your own set of mods)
+- [Resolving merge conflicts](#resolving-merge-conflicts) (useful if you make your own changes to your mods and have issues updating)
 
 ## Setup
 
@@ -94,15 +94,6 @@ This tutorial assumes you already have Lethal Company installed. It is important
 </div><br/>
 
 
-## Disabling or reenabling mods
-If you wish to disable mods to play with someone who does not have them, there is a script to do this.
-- Open the Lethal Company game folder:
-  - `Game settings button` > `Manage` > `Browse local files`
-- Double-click the `toggle_mods.bat` or `toggle_mods` file (the `.bat` extension may or may not be visible on your computer)
-- This will disable your mods if they were previously enabled
-- Double-click the file again to reenable the mods
-
-
 ## Updating to the most recent changes
 If this repository has been updated by someone, you can pull the most recent version pretty easily.
 - Open the Lethal Company game folder:
@@ -117,6 +108,19 @@ If you have merge conflicts, see the [resolving merge conflicts](#resolving-merg
 </div><br/>
 
 
+## Disabling or reenabling mods
+If you wish to disable mods to play with someone who does not have them, there is a script to do this.
+- Open the Lethal Company game folder:
+  - `Game settings button` > `Manage` > `Browse local files`
+- Double-click the `toggle_mods.bat` or `toggle_mods` file (the `.bat` extension may or may not be visible on your computer)
+- This will disable your mods if they were previously enabled
+- Double-click the file again to reenable the mods
+
+
+## Adding your own mods
+Feel free to add your own mods to the Lethal Company game folder like normal, just understand that making changes to existing files on your computer may cause merge conflicts during future updates (see the [resolving merge conflicts](#resolving-merge-conflicts) section for details). If you would like to push your own mods or updates to the repository here on GitHub for everyone to use, there are several additional steps you need to follow. You need to create a GitHub account, configure your computer's Git profile, add an SSH key, and either make a pull request on a new branch, or I need to add your GitHub account as a contributor. If you are interested in being a contributor or learning more about this process, send me a Discord DM.
+
+
 ## Resolving merge conflicts
 If you have made changes to your own mods that conflict with the updates you are pulling, you may have what is known as "merge conflicts" when pulling the most recent changes. If that is the case and you would like to revert your own changes and update with the most recent changes to this repository, You may do so.
 - Ensure your mods are *enabled* using the `toggle_mods` file, as seen in the [disabling or reenabling mods](#disabling-or-reenabling-mods) section
@@ -126,7 +130,3 @@ If you have made changes to your own mods that conflict with the updates you are
 - Now you should be able to run the update script with no issues
 - [OPTIONAL] If you know what you are doing and want to get your own changes back, type `git stash pop` into the command line and press `Enter`
    - Understand that you will need to manually resolve the merge conflict, I cannot help you with that in this tutorial
-
-
-## Adding your own mods
-Feel free to add your own mods to the Lethal Company game folder like normal, just understand that making changes to existing files on your computer may cause merge conflicts during future updates (see the [resolving merge conflicts](#resolving-merge-conflicts) section for details). If you would like to push your own mods or updates to the repository here on GitHub for everyone to use, there are several additional steps you need to follow. You need to create a GitHub account, configure your computer's Git profile, add an SSH key, and either make a pull request on a new branch, or I need to add your GitHub account as a contributor. If you are interested in being a contributor or learning more about this process, send me a Discord DM.
