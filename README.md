@@ -124,6 +124,8 @@ If you have made changes to your own mods that conflict with the updates you are
 - Follow steps 1, 3, 4, and 5 in the Setup (do not clear out the game folder, skip that step)
 - Now with your command line open, type `git stash` and press the `Enter` key
 - Now you should be able to run the update script with no issues
+- [OPTIONAL] If you know what you are doing and want to get your own changes back, type `git stash pop` into the command line and press `Enter`
+   - Understand that you will need to manually resolve the merge conflict, I cannot help you with that in this tutorial
 
 
 ## Adding your own mods
