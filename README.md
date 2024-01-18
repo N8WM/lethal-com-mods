@@ -133,3 +133,13 @@ If this is the case and you would like to undo your own changes and update with 
 - Now you should be able to run the update script with no issues
 - [OPTIONAL] **If you know what you are doing** and want to get your own changes back, type `git stash pop` into the command line and press `Enter`
    - Understand that you will need to manually resolve the merge conflict, I cannot help you with that in this tutorial
+
+
+## Mods included in this repository
+- [BepInEx](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)
+- [LC API](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)
+- [Runtime Netcode Patcher](https://thunderstore.io/c/lethal-company/p/Ozone/Runtime_Netcode_Patcher/) (a More Emotes dependency)
+- [BiggerLobby](https://thunderstore.io/c/lethal-company/p/bizzlemip/BiggerLobby/)
+- [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)
+- [LateCompany](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/)
+- [More Emotes](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)
