@@ -143,3 +143,4 @@ If this is the case and you would like to undo your own changes and update with 
 - [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)
 - [LateCompany](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/)
 - [More Emotes](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)
+- [Helmet Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)
