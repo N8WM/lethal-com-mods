@@ -144,3 +144,6 @@ If this is the case and you would like to undo your own changes and update with 
 - [LateCompany](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/)
 - [More Emotes](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)
 - [Helmet Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)
+
+## To be added soon
+- [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)
