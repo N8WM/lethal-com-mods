@@ -146,6 +146,7 @@ If this is the case and you would like to undo your own changes and update with 
 - [Helmet Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)
 - [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/)
 - [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) (a ReservedItemSlotCore dependency)
+- [BetterItemScan](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan/)
 
 ## To be added soon
 - [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)
