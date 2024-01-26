@@ -144,9 +144,9 @@ If this is the case and you would like to undo your own changes and update with 
 - [LateCompany](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/)
 - [More Emotes](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)
 - [Helmet Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)
+- [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/)
+- [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) (a ReservedItemSlotCore dependency)
 
 ## To be added soon
 - [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)
-- [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/)
-- [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) (a ReservedItemSlotCore dependency)
 - [MoreCompany](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/) (more-stable replacement for BiggerLobby)
