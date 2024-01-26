@@ -7,4 +7,5 @@ UnityCrashHandler64.exe
 UnityPlayer.dll
 BepInEx/cache/**
 BepInEx/config/**
+Dissonance_Diagnostics/**
 **/*.log
