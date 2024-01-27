@@ -47,7 +47,7 @@ This tutorial assumes you already have Lethal Company installed. It is important
    - Type the word `cmd` into the prompt and click "OK"
 
 4.5. Navigate to the correct drive (only if you store your games on a separate drive)
-   - Only do this step if your game is stored on a separate drive, for example, `D:\...\common\Lethal Company`
+   - Only do step 4.5 if your game is stored on a separate drive, for example, `D:\...\common\Lethal Company`
    - Type the letter of your game's drive into your command line followed by a colon, for example, `d:`, and press the `Enter` key
    - Make sure your command line reflects this change, having a prompt line that starts with the letter of your drive
 
