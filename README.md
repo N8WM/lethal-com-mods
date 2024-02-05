@@ -152,6 +152,7 @@ If this is the case and you would like to undo your own changes and update with 
 - [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/)
 - [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) (a ReservedWalkieSlot dependency)
 - [BetterItemScan](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan/)
+- [YippeeMod](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)
 
 ## To be added soon
 - [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)
